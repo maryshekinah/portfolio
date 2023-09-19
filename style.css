@@ -34,5 +34,9 @@ width: 50%;
   display: flex;
   justify-content: center;
 }
-
+#about{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
 
