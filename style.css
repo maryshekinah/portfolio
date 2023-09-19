@@ -38,5 +38,17 @@ width: 50%;
   width: 70%;
   margin: auto;
   text-align: center;
+  padding: 3em;
 }
-
+#about h1{
+  margin-bottom: 1em;
+  }
+footer .contact{
+  display: flex;
+  justify-content: space-between;
+}
+footer{
+  padding: 3em;
+  background-color: aqua;
+  text-align: center;
+}
