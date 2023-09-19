@@ -22,16 +22,5 @@ body {
 .navlinks li{
   margin: 1em;
 }
-#landing {
-  display: flex;
-  width: 80%;
-  margin: auto;
-}
-.image img{
-width: 50%;
-}
-.image{
-  display: flex;
-  justify-content: center;
-}
-#
+
+
